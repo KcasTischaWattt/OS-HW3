@@ -24,7 +24,7 @@
 
 Программа не завершается сама - она бесконечна. Её надо останавливать вручную - напрмер, закрыть окно терминала
 
-## На 4-5 баллов (*Неменованные POSIX семафоры*):
+## На 4-5 баллов:
 > * [Папка](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%204-5%20mark) с [программой](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%204-5%20mark/code) и [тестами](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%204-5%20mark/tests)
 > * [Отчёт](https://github.com/KcasTischaWattt/OS-HW3/blob/main/For%204-5%20mark/readme.md)
 
