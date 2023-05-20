@@ -28,3 +28,8 @@
 > * [Папка](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%204-5%20mark) с [программой](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%204-5%20mark/code) и [тестами](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%204-5%20mark/tests)
 > * [Отчёт](https://github.com/KcasTischaWattt/OS-HW3/blob/main/For%204-5%20mark/readme.md)
 
+## На 6-7 баллов:
+> * [Папка](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%206-7%20mark) с [программой](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%206-7%20mark/code) и [тестами](https://github.com/KcasTischaWattt/OS-HW3/tree/main/For%206-7%20mark/tests)
+> * [Отчёт](https://github.com/KcasTischaWattt/OS-HW3/blob/main/For%206-7%20mark/readme.md)
+
+
