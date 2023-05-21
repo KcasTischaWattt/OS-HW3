@@ -1,1 +1,1 @@
-В данной пограмме был добавлен наблюдаетель([spectator.c](https://github.com/KcasTischaWattt/OS-HW3/blob/main/For%206-7%20mark/code/spectator.c)), который выводит всю информацию о взаимодействии клиентов и сервера. 
+В данной пограмме был добавлен наблюдаетель([`spectator.c`](https://github.com/KcasTischaWattt/OS-HW3/blob/main/For%206-7%20mark/code/spectator.c)), который выводит всю информацию о взаимодействии клиентов и сервера. 
